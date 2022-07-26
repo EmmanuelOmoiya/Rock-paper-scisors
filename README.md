@@ -1,4 +1,6 @@
 # Rock-paper-scisors
-Reach DApp tutorial
+Reach DApp Rock paper and scissors tutorial
 
-##Proof of code
+## Proof of code
+
+
